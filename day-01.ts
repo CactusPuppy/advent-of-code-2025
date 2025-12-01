@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs";
 
-const input = readFileSync("day01-input.txt").toString();
+const input = readFileSync("./inputs/day01-input.txt").toString();
 
 let instructions = input.split("\n");
 instructions = instructions.filter(l => l.length);
