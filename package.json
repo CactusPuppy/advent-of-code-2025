@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "CactusPuppy",
+  "license": "MIT",
+  "packageManager": "pnpm@10.22.0",
+  "dependencies": {
+    "node": "^22.21.1",
+    "tsx": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "vitest": "^4.0.14"
+  }
+}
